@@ -1,0 +1,22 @@
+1. Wireframing - Draw rought sketch of what I am building
+2. Functiona;ity 
+    * Sign In
+    * Sign Up
+    8 create a chnnel
+    * send message in a channel
+    * join a channel
+    * search a channel
+3. DATA
+    * users
+    * channels
+    * messages
+4. UI
+    * Sidebars
+        * List of channels
+        * listofdirectmesage
+    * MainContainer
+        *header
+        *messages
+        *createmessage
+    *signin
+    *signup
